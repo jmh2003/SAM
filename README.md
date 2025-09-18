@@ -1,4 +1,4 @@
-# SAM: Stealthy Adversarial Mimicry
+# Stealthy Hijacking: A Semi-Honest Reconstruction Attack with Adversarially Perturbed Gradients in Split Learning
 
 ## Introduction
 This repository contains the official implementation of SAM (Stealthy Adversarial Mimicry), a novel data reconstruction attack in Split Learning. SAM combines the strengths of active and passive attacks, achieving high reconstruction quality while maintaining stealth.
